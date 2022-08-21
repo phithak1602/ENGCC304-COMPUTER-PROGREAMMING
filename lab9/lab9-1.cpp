@@ -7,7 +7,7 @@ int main() {
 
     //////////input//////////
     printf( "Input : " ) ;
-    scanf( "%s",&name ) ;
+    gets( name ) ;
 
     //////////output//////////
     printf( "outout = " ) ;
